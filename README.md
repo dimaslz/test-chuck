@@ -1,3 +1,3 @@
 # Subflash FTW!! 
 
-## `GET` :/test/lala type: test
+### `GET` :/test/lala type: test
