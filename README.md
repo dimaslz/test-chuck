@@ -1,3 +1,9 @@
-# Subflash FTW!! 
+# demo
 
-### `GET (200): /test/:page`
+Demo application
+
+## Endpoints
+dfasdf
+
+### GET (200): /demo
+
